@@ -2,8 +2,9 @@
 
 **Unity Version**: `2022.3.6f1`
 
+# [시연 영상 보기](t1.mp4)
+
 ---
-<video controls src="./t1.mp4"></video>
 
 ## 📌 커밋 템플릿 (Commit Template)
 
