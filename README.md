@@ -3,6 +3,7 @@
 **Unity Version**: `2022.3.6f1`
 
 ---
+<video controls src="./t1.mp4"></video>
 
 ## 📌 커밋 템플릿 (Commit Template)
 
