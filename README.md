@@ -2,7 +2,9 @@
 
 **Unity Version**: `2022.3.6f1`
 
-# [시연 영상 보기](t1.mp4)
+# 시연 영상
+https://github.com/user-attachments/assets/588da146-d40c-48a7-91ea-2b533c09d786
+
 
 ---
 
